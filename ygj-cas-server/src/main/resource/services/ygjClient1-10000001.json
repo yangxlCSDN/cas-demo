@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^(https|imaps|http)://.*",
+  "name" : "ygjClient1",
+  "id" : 10000001,
+  "description" : "悦管家测试客户端1",
+  "evaluationOrder" : 1
+}
